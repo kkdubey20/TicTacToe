@@ -1,15 +1,17 @@
 body{
     text-align: center;
+    
 }
 
 .board{
-    margin-top: 5vh;
-    margin-left: 37vw;
+    padding-top: 5vh;
+    /* margin-left: 37vw; */
     font-size: 6vmax;
+    /* height: 100vh; */
 }
 
 h1{
-    margin-top: 20vh;
+    padding-top: 20vh;;
 }
 
 .row{
